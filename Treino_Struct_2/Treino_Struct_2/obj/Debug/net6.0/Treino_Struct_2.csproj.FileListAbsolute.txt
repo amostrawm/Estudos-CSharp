@@ -1,0 +1,15 @@
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\bin\Debug\net6.0\Treino_Struct_2.exe
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\bin\Debug\net6.0\Treino_Struct_2.deps.json
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\bin\Debug\net6.0\Treino_Struct_2.runtimeconfig.json
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\bin\Debug\net6.0\Treino_Struct_2.dll
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\bin\Debug\net6.0\Treino_Struct_2.pdb
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.csproj.AssemblyReference.cache
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.AssemblyInfoInputs.cache
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.AssemblyInfo.cs
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.csproj.CoreCompileInputs.cache
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.dll
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\refint\Treino_Struct_2.dll
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.pdb
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\Treino_Struct_2.genruntimeconfig.cache
+D:\RepositorioC\Treino_Struct_2\Treino_Struct_2\obj\Debug\net6.0\ref\Treino_Struct_2.dll

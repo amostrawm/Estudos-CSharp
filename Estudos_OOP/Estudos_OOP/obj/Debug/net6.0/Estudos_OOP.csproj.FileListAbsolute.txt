@@ -1,0 +1,15 @@
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.csproj.AssemblyReference.cache
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.AssemblyInfoInputs.cache
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.AssemblyInfo.cs
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.csproj.CoreCompileInputs.cache
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\bin\Debug\net6.0\Estudos_OOP.exe
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\bin\Debug\net6.0\Estudos_OOP.deps.json
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\bin\Debug\net6.0\Estudos_OOP.runtimeconfig.json
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\bin\Debug\net6.0\Estudos_OOP.dll
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\bin\Debug\net6.0\Estudos_OOP.pdb
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.dll
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\refint\Estudos_OOP.dll
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.pdb
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\Estudos_OOP.genruntimeconfig.cache
+D:\RepositorioC\Estudos_OOP\Estudos_OOP\obj\Debug\net6.0\ref\Estudos_OOP.dll

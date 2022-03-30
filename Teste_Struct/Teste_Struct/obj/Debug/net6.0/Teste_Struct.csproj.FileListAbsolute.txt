@@ -1,0 +1,15 @@
+D:\RepositorioC\Teste_Struct\Teste_Struct\bin\Debug\net6.0\Teste_Struct.exe
+D:\RepositorioC\Teste_Struct\Teste_Struct\bin\Debug\net6.0\Teste_Struct.deps.json
+D:\RepositorioC\Teste_Struct\Teste_Struct\bin\Debug\net6.0\Teste_Struct.runtimeconfig.json
+D:\RepositorioC\Teste_Struct\Teste_Struct\bin\Debug\net6.0\Teste_Struct.dll
+D:\RepositorioC\Teste_Struct\Teste_Struct\bin\Debug\net6.0\Teste_Struct.pdb
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.csproj.AssemblyReference.cache
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.AssemblyInfoInputs.cache
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.AssemblyInfo.cs
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.csproj.CoreCompileInputs.cache
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.dll
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\refint\Teste_Struct.dll
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.pdb
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\Teste_Struct.genruntimeconfig.cache
+D:\RepositorioC\Teste_Struct\Teste_Struct\obj\Debug\net6.0\ref\Teste_Struct.dll

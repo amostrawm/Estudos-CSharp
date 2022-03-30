@@ -1,0 +1,15 @@
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\bin\Debug\net6.0\Estudo_OOP_2.exe
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\bin\Debug\net6.0\Estudo_OOP_2.deps.json
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\bin\Debug\net6.0\Estudo_OOP_2.runtimeconfig.json
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\bin\Debug\net6.0\Estudo_OOP_2.dll
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\bin\Debug\net6.0\Estudo_OOP_2.pdb
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.csproj.AssemblyReference.cache
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.AssemblyInfoInputs.cache
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.AssemblyInfo.cs
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.csproj.CoreCompileInputs.cache
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.dll
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\refint\Estudo_OOP_2.dll
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.pdb
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\Estudo_OOP_2.genruntimeconfig.cache
+D:\RepositorioC\Estudo_OOP_2\Estudo_OOP_2\obj\Debug\net6.0\ref\Estudo_OOP_2.dll
