@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\RepositorioC\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj": {}
+    "D:\\Microsoft VS Code\\ProjetosVSCode\\Estudos-CSharp\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj": {}
   },
   "projects": {
-    "D:\\RepositorioC\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj": {
+    "D:\\Microsoft VS Code\\ProjetosVSCode\\Estudos-CSharp\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\RepositorioC\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj",
+        "projectUniqueName": "D:\\Microsoft VS Code\\ProjetosVSCode\\Estudos-CSharp\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj",
         "projectName": "Estudo_OOP_2",
-        "projectPath": "D:\\RepositorioC\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj",
+        "projectPath": "D:\\Microsoft VS Code\\ProjetosVSCode\\Estudos-CSharp\\Estudo_OOP_2\\Estudo_OOP_2\\Estudo_OOP_2.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "D:\\RepositorioC\\Estudo_OOP_2\\Estudo_OOP_2\\obj\\",
+        "outputPath": "D:\\Microsoft VS Code\\ProjetosVSCode\\Estudos-CSharp\\Estudo_OOP_2\\Estudo_OOP_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
