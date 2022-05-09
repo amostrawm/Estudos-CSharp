@@ -1,0 +1,15 @@
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.csproj.AssemblyReference.cache
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.AssemblyInfoInputs.cache
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.AssemblyInfo.cs
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.csproj.CoreCompileInputs.cache
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\bin\Debug\net6.0\exercicio_banco.exe
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\bin\Debug\net6.0\exercicio_banco.deps.json
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\bin\Debug\net6.0\exercicio_banco.runtimeconfig.json
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\bin\Debug\net6.0\exercicio_banco.dll
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\bin\Debug\net6.0\exercicio_banco.pdb
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.dll
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\refint\exercicio_banco.dll
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.pdb
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\exercicio_banco.genruntimeconfig.cache
+D:\RepositorioC\ex-banco-construct\exercicio_banco\exercicio_banco\obj\Debug\net6.0\ref\exercicio_banco.dll
