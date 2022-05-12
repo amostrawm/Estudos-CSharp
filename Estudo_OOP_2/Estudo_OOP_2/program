@@ -1,0 +1,16 @@
+class Program
+{
+    public void main()
+    {
+        Pessoa p1 = new Pessoa();
+        p1.Nome = "Amós";
+        p1.Tel1 = "19-9999-9999"
+        p1.Tel2 = null;
+        p1.End = "Rua 1";
+        p1.Conta.Saldo = 1000;
+
+        Console.Write(p1.Nome);
+        Console.ReadKey();
+
+    }
+}
